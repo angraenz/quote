@@ -1,4 +1,4 @@
 # quote
-*Jangan bersedih* 
+Jangan bersedih
 
 Selalu semangat
